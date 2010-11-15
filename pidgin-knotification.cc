@@ -9,7 +9,7 @@
 
 PurplePlugin *myself = NULL;
 
-static void Notify(PurpleBuddy *buddy, const char *what) {
+static void Notify(PurpleBuddy *buddy, const gchar *what) {
 	const char *name = NULL;
 	if (purple_buddy_get_contact_alias(buddy))
 		name = purple_buddy_get_contact_alias(buddy);
