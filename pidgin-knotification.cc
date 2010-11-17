@@ -113,7 +113,7 @@ extern "C" {
 
 		(char*)"core-nelchael-pidgin-knotification",
 		(char*)"KDE notification",
-		(char*)"0.1",
+		(char*)"0.3",
 		(char*)"Use KDE notifications for new messages",
 		(char*)"Use KDE notifications for new messages",
 
