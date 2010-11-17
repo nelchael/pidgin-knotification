@@ -2,8 +2,6 @@
 #include <QDBusMessage>
 #include <QDBusConnectionInterface>
 
-#include <knotification.h>
-
 #include <purple.h>
 #include <status.h>
 
